@@ -1,0 +1,20 @@
+{
+  "name": "clicktime-intern-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-interactive-list": "^0.6.4",
+    "react-scripts": "1.1.5",
+    "react-select": "^2.1.0",
+    "react-toggle-button": "^2.2.0",
+    "reactstrap": "^6.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
